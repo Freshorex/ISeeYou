@@ -1,12 +1,12 @@
 body {
     background-color: black;
     padding: 18%;
+    font-family: "SGA";
 }
 
 p {
     color: white;
     text-align: center;
-    font-family: "SGA";
 }
 
 @font-face {
