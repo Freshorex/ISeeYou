@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    display: grid;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20%;
+    font-family: "SGA";
+}
+
+@font-face {
+    font-family: "SGA";
+    src: url(SGA/VoxelGalactic-Regular.ttf);
+}
