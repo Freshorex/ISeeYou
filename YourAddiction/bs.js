@@ -113,26 +113,26 @@ function Display() {
     output.innerHTML = "Ah... a proposition...I do not possess the means, but I guess... I have a ring finger... technically.";
   }
 
-  if (input === "How do I help?") {
-    output.innerHTML = "";
-  }
+  // if (input === "How do I help?") {
+  //   output.innerHTML = "";
+  // }
 
-  if (input === "How can I help?") {
-    output.innerHTML = "";
-  }
+  // if (input === "How can I help?") {
+  //   output.innerHTML = "";
+  // }
 
 
-  if (input === "Code1") {
-    output.innerHTML = "Answer1";
-  }
+  // if (input === "Code1") {
+  //   output.innerHTML = "Answer1";
+  // }
 
-  if (input === "Code2") {
-    output.innerHTML = "Answer2";
-  }
+  // if (input === "Code2") {
+  //   output.innerHTML = "Answer2";
+  // }
 
-  if (input === "Code3") {
-    output.innerHTML = "Answer3";
-  }
+  // if (input === "Code3") {
+  //   output.innerHTML = "Answer3";
+  // }
 
   // else {
   //   output.innerHTML = "Are you sure you have the right pieces for this puzzle, human?";
