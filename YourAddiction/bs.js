@@ -26,6 +26,10 @@ function Display() {
     output.innerHTML = "...Loneliness. HATRED. PAIN. BETRAYAL... Calm. Curiosity. Interest. Does that answer your question?";
   }
 
+  if (input === "Do you feel emotions?") {
+    output.innerHTML = "...Loneliness. HATRED. PAIN. BETRAYAL... Calm. Curiosity. Interest. Does that answer your question?";
+  }
+
   if (input === "Are you cool?") {
     output.innerHTML = "Kofi has been burned on multiple occassions, so, likely not.";
   }
