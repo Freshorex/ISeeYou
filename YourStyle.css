@@ -6,4 +6,10 @@ body {
 p {
     color: white;
     text-align: center;
+    font-family: "SGA";
+}
+
+@font-face {
+    font-family: "SGA";
+    src: url(YourAddiction/SGA/VoxelGalactic-Regular.ttf);
 }
